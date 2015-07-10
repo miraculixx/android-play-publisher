@@ -1,5 +1,9 @@
-This package adopted from Google Play Developer Publishing API 
-at   
+This package adopted from Google Play Developer Publishing API samples 
+at https://github.com/googlesamples/android-play-publisher-api.git
+
+This is a Python only package. Currently only the upload command is
+fully supported although all other commands form the samples should work
+without modification.
 
 
 # Google Play Developer Publishing API samples
