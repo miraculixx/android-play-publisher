@@ -1,3 +1,7 @@
+This package adopted from Google Play Developer Publishing API 
+at   
+
+
 # Google Play Developer Publishing API samples
 
 A collection of command-line samples for the Play Developer Publishing API.
